@@ -29,6 +29,6 @@ As you can see that, <b><u>GAME</u></b> category apps has been installed maximum
 
 # Free Vs Paid Apps
 <b><u>92% of apps</u></b>Over play store are free to download and rest are paid.
-look visuals
+  look visuals
 ![4edaCapture](https://user-images.githubusercontent.com/74107667/185801076-158bd721-0104-4cb0-9879-f444701425e4.PNG)
   
