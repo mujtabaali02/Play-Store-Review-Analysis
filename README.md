@@ -17,17 +17,18 @@ times.
 4. Exploring the average rating for each category.
 5. Understanding the sentiment polarity of the users.
 
+
 # Top Installed Apps By Category
 ![2edaCapture](https://user-images.githubusercontent.com/74107667/185800864-7970e6df-a53f-4125-8a7f-8cb455d2d5be.PNG)
 
 Now Lets talk about the Category and No. of apps Installation. I am Fetching the insights that from Which Category Maximum No. of apps Instalation happend.
 See Graph for Better Understanding.
 ![3edaCapture](https://user-images.githubusercontent.com/74107667/185800975-0569c7d3-9d84-4e16-b2b4-56bed23e1742.PNG)
-As you can see that, GAME category apps has been installed maximum number of time.
+As you can see that, <b><u>GAME</u><b> category apps has been installed maximum number of time.
+
 
 # Free Vs Paid Apps
-92% of apps on play store are free to download and rest are paid.
+<b><u>92% of apps</u><b>Over play store are free to download and rest are paid.
 look visuals
 ![4edaCapture](https://user-images.githubusercontent.com/74107667/185801076-158bd721-0104-4cb0-9879-f444701425e4.PNG)
-
-
+  
