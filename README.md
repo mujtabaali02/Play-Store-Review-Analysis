@@ -30,4 +30,13 @@ As you can see that, <b><u>GAME</u></b> category apps has been installed maximum
 # Free Vs Paid Apps
 <b><u>92% of apps</u></b> Over play store are free to download and rest are paid. Lets have a look.
 ![4edaCapture](https://user-images.githubusercontent.com/74107667/185801076-158bd721-0104-4cb0-9879-f444701425e4.PNG)
-  
+ 
+ 
+# Conclusion
+Results we got as per our analysis :
+• Game category has the most number of downloads and ratings, and Event category has the
+maximum number of average rating.
+• The size and free/paid apps category affected the maximum number of downloads.
+• We did not find any correlation between paid apps and number of downloads or ratings.
+• Users prefer to pay for apps that are light-weighted. As app size get larger conversion rate
+decreases.
