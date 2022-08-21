@@ -37,6 +37,5 @@ Results we got as per our analysis :
 1. Game category has the most number of downloads and ratings, and Event category has the
 maximum number of average rating.
 2. The size and free/paid apps category affected the maximum number of downloads.
-3. We did not find any correlation between paid apps and number of downloads or ratings.
 4. Users prefer to pay for apps that are light-weighted. As app size get larger conversion rate
 decreases.
